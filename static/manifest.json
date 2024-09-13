@@ -1,0 +1,11 @@
+{
+	"name": "Stealth Commenter",
+	"description": "Comment on websites",
+	"version": "1.0.0",
+	"manifest_version": 3,
+	"action": {
+		"default_title": "Stealth Extension",
+		"default_icon": "favicon.png",
+		"default_popup": "index.html"
+	}
+}
