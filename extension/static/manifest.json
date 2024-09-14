@@ -1,0 +1,16 @@
+{
+	"name": "Browser Board",
+	"description": "Collaborative browser board",
+	"version": "1.0.0",
+	"manifest_version": 3,
+	"action": {
+		"default_title": "Browser Board",
+		"default_icon": "bb_icon_128.png",
+		"default_popup": "index.html"
+	},
+	"icons": {
+		"16": "bb_icon_16.png",
+		"48": "bb_icon_48.png",
+		"128": "bb_icon_128.png"
+	}
+}
