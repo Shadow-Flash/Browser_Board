@@ -12,5 +12,11 @@
 		"16": "bb_icon_16.png",
 		"48": "bb_icon_48.png",
 		"128": "bb_icon_128.png"
-	}
+	},
+	"content_scripts": [
+		{
+			"matches": ["<all_urls>"],
+			"js": ["content.js"]
+		}
+	]
 }
